@@ -69,23 +69,26 @@ padding: 15px;
 height: 25px;
 width: 25px;
 padding: 5px;
+-webkit-filter: grayscale(100%); filter: grayscale(100%);
 }
 
 #linkedinLink{
 height: 25px;
 width: 25px;
 padding: 5px;
+-webkit-filter: grayscale(100%); filter: grayscale(100%);
 }
 
 #youtubeLink{
 height: 25px;
 width: 25px;
 padding: 5px;
+-webkit-filter: grayscale(100%); filter: grayscale(100%);
 }
 
 #geonetLink{
 height: 25px;
 width: 25px;
 padding: 5px;
-filter: grayscale(100%);
+-webkit-filter: grayscale(100%); filter: grayscale(100%); 
 }
