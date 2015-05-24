@@ -1,11 +1,9 @@
 body{
 height: 100%;
 width: 100%;
-background-color: lightblue;
 }
 
 header{
-display: block;
 height: 30px;
 width: 100%;
 background: #000000; /* Old browsers */
