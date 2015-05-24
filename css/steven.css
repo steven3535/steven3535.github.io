@@ -1,1 +1,35 @@
+header{
+height:30px;
+}
 
+#facebookLink{
+position: absolute;
+height: 20px;
+width: 20px;
+top:5px;
+right: 71px;
+}
+
+#linkedinLink{
+position: absolute;
+height: 20px;
+width: 20px;
+top:5px;
+right: 49px;
+}
+
+#geonetLink{
+position: absolute;
+height: 20px;
+width: 20px;
+top:5px;
+right: 27px;
+}
+
+#youtubeLink{
+position: absolute;
+height: 20px;
+width: 20px;
+top:5px;
+right: 5px;
+}
