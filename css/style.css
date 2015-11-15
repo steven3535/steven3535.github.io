@@ -33,6 +33,12 @@ background:#000000;
 .logo{
 float:left;
 }
+.stevenPhoto{
+border-radius: 50%;
+max-height: 100px;
+width: auto;
+}
+
 .top-menu{
 float:right;
 }
